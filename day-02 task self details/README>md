@@ -1,0 +1,15 @@
+# Program to print personal details
+
+name = "malika fatima"
+age = 20
+gender = "female"
+course = "electronic and physics"
+email = "malikafatimamakandar3@gmail.com"
+phone = "9945376468"
+
+print("Name:", name)
+print("Age:", age)
+print("Gender:", gender)
+print("Course:", course)
+print("Email:", email)
+print("Phone:", phone)
